@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OnaKhutoane28
+- 👋 Hi, I’m Ona 
 - 👀 I’m interested in Machine Learning and AI 
-- 🌱 I’m currently learning Python, Java, C, R 
+- 🌱 I’m currently learning Python and Java 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me email: onaakhutoane28@gmail.com
 - 😄 Pronouns: she/her 
